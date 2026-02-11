@@ -18,7 +18,7 @@ jobs:
       - name: Idk
         run: |
           chmod +x vless.sh
-          ./vless.sh
+          sudo bash vless.sh
 
       - name: sleep
         run: sleep 70000000
