@@ -1,5 +1,5 @@
 {
-  "name": "my-worker",
+  "name": "vless",
   "compatibility_date": "2026-02-11",
   "main": "worker.js"
 }
